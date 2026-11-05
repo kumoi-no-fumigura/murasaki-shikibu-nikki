@@ -28,7 +28,7 @@
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 26,
+  "count": 28,
   "note": "AI による現代語訳"
  },
  "blocks": [
@@ -634,6 +634,7 @@
    ],
    "no": 23,
    "poems": [],
+   "kakikudashi": "徐福文成誑誕多し",
    "pid": "991361"
   },
   {
@@ -950,6 +951,7 @@
   "poems": 18,
   "editions": 1,
   "updated": "2026-10-31",
-  "updated_at": "2026-10-31T22:39:17+09:00"
+  "updated_at": "2026-10-31T22:39:17+09:00",
+  "yaku": 28
  }
 }
